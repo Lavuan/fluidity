@@ -263,5 +263,15 @@ export const themes: Theme[] = [
 			"--accent-color": "#c5bdb5",
 			"--accent-color2": "#93a662"
 		}
+	},
+	{
+		name: "Eva 02",
+		image: "https://media.giphy.com/media/1J4X5chVxtBFS/giphy.gif",
+		colors: {
+			"--bg-color": "#151515",
+			"--default-color": "#A6B7AB",
+			"--accent-color": "#C20F0F",
+			"--accent-color2": "#DB7A1F"
+		}
 	}
 ]
