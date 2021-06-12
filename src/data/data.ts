@@ -25,130 +25,120 @@ export type linkGroup = {
 ▀(@)▀▀▀▀▀▀▀(@)(@)▀▀▀▀▀▀▀▀▀▀▀▀▀​▀▀▀▀(@)▀
 */
 export const links: linkGroup[] = [
-	{
-		title: "Reddit",
-		links: [
-			{
-				label: "r/startpages",
-				value: "https://www.reddit.com/r/startpages/",
-			},
-			{
-				label: "r/unixporn",
-				value: "https://www.reddit.com/r/unixporn/",
-			},
-			{
-				label: "r/rainmeter",
-				value: "https://www.reddit.com/r/rainmeter/",
-			},
-			{
-				label: "r/AnimalsBeingDerps",
-				value: "https://www.reddit.com/r/AnimalsBeingDerps/",
-			},
-		]
+  {
+    "title": "beep boop",
+    "links": [
+      {
+        "label": "Discord",
+        "value": "https://discordapp.com/"
+      },
+      {
+        "label": "Gmail",
+        "value": "https://mail.google.com/"
+      },
+      {
+        "label": "reddit",
+        "value": "https://www.reddit.com/"
+      },
+      {
+        "label": "WhatsApp",
+        "value": "https://web.whatsapp.com/"
+      }
+    ]
 	},
 	{
-		title: "3D Modelling",
-		links: [
-			{
-				label: "Blender",
-				value: "https://www.blender.org/",
-			},
-			{
-				label: "BlenderGuru",
-				value: "https://www.blenderguru.com/",
-			},
-			{
-				label: "Poliigon",
-				value: "https://www.poliigon.com/",
-			},
-			{
-				label: "Blender tutorial",
-				value: "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U",
-			},
-			{
-				label: "The other Blender tutorial",
-				value: "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1",
-			},
-		]
-	},
-	{
-		title: "Design",
-		links: [
-			{
-				label: "PixlrX",
-				value: "https://pixlr.com/x/",
-			},
-			{
-				label: "AI Image Enlarger",
-				value: "https://bigjpg.com/en",
-			},
-			{
-				label: "Img to Svg Converter",
-				value: "https://picsvg.com/",
-			},
-			{
-				label: "Affinity",
-				value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
-			},
-			{
-				label: "Affinity - YT",
-				value: "https://www.youtube.com/c/AffinityRevolution/playlists",
-			},
-		]
-	},
-	{
-		title: "Music",
-		links: [
-			{
-				label: "i wanna be a cowboy",
-				value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
-			},
-			{
-				label: "let the bodies hit the floor",
-				value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
-			},
-			{
-				label: "Nobody Kanna Cross It",
-				value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
-			},
-			{
-				label: "Smug Dancin",
-				value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
-			},
-			{
-				label: "Utamaru - The Sanctified Mind Cover",
-				value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
-			},
-		]
-	},
-	{
-		title: "Sauce",
-		links: [
-			{
-				label: "Pictures - DeathAndMilk",
-				value: "https://www.instagram.com/deathandmilk_/",
-			},
-			{
-				label: "Icons - FontAwesome",
-				value: "https://fontawesome.com/icons",
-			},
-			{
-				label: "Text Flicker - CodeMyUI",
-				value: "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/",
-			},
-			{
-				label: "Wave Animation - mburakerman",
-				value: "https://codepen.io/mburakerman/pen/eRZZEv",
-			},
-			{
-				label: "Da real sauce ԅ(♡﹃♡ԅ)",
-				value: "https://www.youtube.com/watch?v=qr89xoZyE1g",
-			},
-			{
-				label: "Even more real sauce ( ͡° ͜ʖ ͡°)",
-				value: "https://www.youtube.com/watch?v=VLhJOd_TFiI",
-			},
-		]
+    "title": "srak tring",
+    "links": [
+      {
+        "label": "MangaDex",
+        "value": "https://mangadex.org/"
+      },
+      {
+        "label": "MangaPark",
+        "value": "https://mangapark.net/"
+      },
+      {
+        "label": "Read Comic Online",
+        "value": "https://readcomiconline.to/"
+      },
+      {
+        "label": "Look Movie",
+        "value": "https://lookmovie.io/"
+      },
+      {
+        "label": "Piracy Moe",
+        "value": "https://piracy.moe/"
+      }
+    ]
+  },
+  {
+    "title": "hmmm hmm",
+    "links": [
+      {
+        "label": "Bandcamp",
+        "value": "https://bandcamp.com/lavuan/wishlist"
+      },
+      {
+        "label": "Spotify",
+        "value": "https://open.spotify.com/"
+      },
+      {
+        "label": "YouTube",
+        "value": "https://www.youtube.com/"
+      },
+      {
+        "label": "Twitch",
+        "value": "https://www.twitch.tv/directory/following"
+      }
+    ]
+  },
+  {
+    "title": "hell",
+    "links": [
+      {
+        "label": "Alienware Arena",
+        "value": "https://www.alienwarearena.com/ucf/Giveaway"
+      },
+      {
+        "label": "steamgifts",
+        "value": "https://www.steamgifts.com/"
+      },
+      {
+        "label": "Steam Database",
+        "value": "https://steamdb.info/"
+      },
+      {
+        "label": "Wishlist",
+        "value": "https://store.steampowered.com/wishlist/profiles/76561198271692078/#sort=discount&type=Game"
+      },
+      {
+        "label": "FreeCodeCamp",
+        "value": "https://www.freecodecamp.org/learn"
+      },
+      {
+        "label": "App Academy Open",
+        "value": "https://open.appacademy.io/"
+      }
+    ]
+  },
+  {
+    "title": "etc.",
+    "links": [
+      {
+        "label": "My Indihome",
+        "value": "https://www.indihome.co.id/"
+      },
+      {
+        "label": "GDrive",
+        "value": "https://drive.google.com"
+      },
+      {
+        "label": "Router",
+        "value": "http://192.168.100.1/"
+      }
+    ]
+  }
+]
 	},
 ]
 
